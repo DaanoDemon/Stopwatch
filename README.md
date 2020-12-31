@@ -1,4 +1,5 @@
 # Stopwatch
-<div align="center">
-    <img src="Start.png" width="400px"</img> 
+<div>
+    <img src="Start.png" width="200px"</img> 
+    <img src="Pause.png" width="200px"</img>
 </div>
