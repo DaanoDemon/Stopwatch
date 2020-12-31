@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="logo">Logo</string>
+    <string name="needle">Needle</string>
+    <string name="bottompath">bottomPath</string>
+    <string name="upperpath">upperPath</string>
+    <string name="start">START</string>
+    <string name="pause">PAUSE</string>
+    <string name="reset">RESET</string>
+</resources>
